@@ -1,1 +1,1 @@
-# deploy-with-argocd
+# argocd-practise
